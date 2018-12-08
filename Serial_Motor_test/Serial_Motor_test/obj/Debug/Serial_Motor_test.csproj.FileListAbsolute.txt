@@ -1,0 +1,10 @@
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\bin\Debug\Serial_Motor_test.exe.config
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\bin\Debug\Serial_Motor_test.exe
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\bin\Debug\Serial_Motor_test.pdb
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\obj\Debug\Serial_Motor_test.csprojResolveAssemblyReference.cache
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\obj\Debug\Serial_Motor_test.Form1.resources
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\obj\Debug\Serial_Motor_test.Properties.Resources.resources
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\obj\Debug\Serial_Motor_test.csproj.GenerateResource.Cache
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\obj\Debug\Serial_Motor_test.csproj.CoreCompileInputs.cache
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\obj\Debug\Serial_Motor_test.exe
+C:\Users\Nils\Documents\Programmieren\C_Sharp\Serial_Motor_test\Serial_Motor_test\obj\Debug\Serial_Motor_test.pdb
